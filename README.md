@@ -1,6 +1,6 @@
 # Visual Maze Solver
 
-A Python-based visualization of the **Recursive Backtracking (Depth-First Search)** algorithm. This tool demonstrates how a computer "thinks" while navigating through a maze and allows users to **custom-design their own layouts**.
+A Python-based visualization of the **Recursive Backtracking** algorithm. This tool demonstrates how a computer "thinks" while navigating through a maze and allows users to **custom-design their own layouts**.
 
 ## 🌟 Key Features
 - **Algorithm Visualization**: Real-time display of path exploration and backtracking.
