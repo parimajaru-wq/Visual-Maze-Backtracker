@@ -10,9 +10,6 @@ A Python 2D visualization of the **Recursive Backtracking** algorithm. This tool
 - **Customizable Maze Design**: Design your own maze by simply editing a text grid in the source code.
 - **Auto-Detection**: Dynamically finds the Start (`s`) and Exit (`e`) points.
 
-## 🛠 Prerequisites & Installation
-Ensure you have **Python 3.x** installed. This project requires the `pygame` library.
-
 ## Prerequisites
 To run this project, you need to have Python and the `Pygame` library installed.
 ```bash
