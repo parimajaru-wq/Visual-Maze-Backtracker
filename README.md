@@ -15,7 +15,7 @@ Open your terminal or command prompt and run:
 ```bash
 pip install pygame
 
-## 🛠 How to Customize Your Maze
+#### 🛠 How to Customize Your Maze
 You can decorate and design your own maze by modifying the `scr` list in `main.py`. Use the following symbols:
 - `s` : **Start Point** (The beginning of the journey)
 - `e` : **Exit Point** (The goal to reach)
